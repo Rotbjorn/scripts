@@ -10,7 +10,7 @@ import kotlin.system.exitProcess
 
 if (args.isEmpty()) {
     System.err.println("Specify what version; ")
-    System.err.println("eg:    ./install-buildtools.kts 1.16.1")
+    System.err.println("eg:    ./get-spigot.kts 1.16.1")
     System.err.println("You can find what versions are acceptable on: https://www.spigotmc.org/wiki/buildtools/#versions")
     exitProcess(0)
 }
