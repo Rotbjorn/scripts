@@ -27,7 +27,7 @@ if(!buildTools.exists()) {
 }
 Files.copy(inputStream, buildTools.toPath())
 
-execJar(buildTools, args[0])
+execJar(buildTools, "--rev", args[0])
 
 fun execJar(jarFile: File, vararg arguments: String) {
 
