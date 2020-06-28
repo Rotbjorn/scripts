@@ -6,7 +6,7 @@ A Kotlin Script that downloads and deploys the specified version of [Spigot](htt
 
 ## Download & Install
 ```shell script
-curl -o get-spigot.kts https://raw.githubusercontent.com/Rotbjorn/scripts/master/scripts/minecraft/spigot/get-spigot.kts?token=ALBAE3G4XQR7JXKW6SHVZAS6674RG
+curl -o get-spigot.kts https://raw.githubusercontent.com/Rotbjorn/scripts/master/scripts/minecraft/spigot/get-spigot.kts
 ``` 
 
 ## Usage
